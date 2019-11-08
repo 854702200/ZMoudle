@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ZMoudle.iml" filepath="$PROJECT_DIR$/../ZMoudle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zlibrary.iml" filepath="$PROJECT_DIR$/Zlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+    </modules>
+  </component>
+</project>
