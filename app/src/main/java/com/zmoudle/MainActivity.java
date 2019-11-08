@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.bt_1:
-                UtilShape.yellow(linearLayoutMenu);
+                UtilShape.shapeBlueGreen(linearLayoutMenu);
                 break;
         }
     }
