@@ -1,4 +1,4 @@
-package com.zmoudle;
+package com.zmoudle.Application;
 
 import android.app.Application;
 
